@@ -31,6 +31,6 @@ I'm currently diving deeper into **Web3 development** and improving my skills in
 - Working on both **frontend** and **backend** development to create complete solutions
 
 ### 📫 **Get in Touch**:
-- **Email**: vipin@example.com
-- **LinkedIn**: [linkedin.com/in/vipin](https://linkedin.com/in/vipin)
-- **Portfolio**: [vipinportfolio.com](https://vipinportfolio.com) (if applicable)
+- **Email**: vipindagar.code@gmail.com
+- **LinkedIn**: [linkedin.com/in/vipin](https://linkedin.com/in/vipindagar07)
+- **Portfolio**: [vipinportfolio.com](https://vipindagar.code) (if applicable)
