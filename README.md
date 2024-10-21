@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Vipin!
+# 👋 Hi, I'm Vipin Dagar!
 
 **Full-stack Developer | MERN Stack | Django | React | Web3 Enthusiast**
 
