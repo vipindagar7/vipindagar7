@@ -21,9 +21,9 @@ I'm currently diving deeper into **Web3 development** and improving my skills in
 - **Three.js** for 3D graphics in web apps
 
 ### 👨‍💻 **Projects**:
-- **[Mock Interview Platform](https://github.com/vipin/mock-interview-platform)**: AI-driven platform that provides mock interviews and real-time feedback using React and Django REST Framework.
-- **[Job Posting Board](https://github.com/vipin/job-posting-board)**: A MERN stack app that allows employers to post jobs, and candidates to apply, with email automation using Nodemailer.
-- **[Chat Application](https://github.com/vipin/chat-app)**: Real-time chat app built using WebSocket in a MERN environment with custom authentication flow and responsive UI.
+- **[Mock Interview Platform](https://github.com/vipindagar7/mock-interview-platform)**: AI-driven platform that provides mock interviews and real-time feedback using React and Django REST Framework.
+- **[Job Posting Board](https://github.com/vipindagar7/job-posting-board)**: A MERN stack app that allows employers to post jobs, and candidates to apply, with email automation using Nodemailer.
+- **[Chat Application](https://github.com/vipindagar7/chat-app)**: Real-time chat app built using WebSocket in a MERN environment with custom authentication flow and responsive UI.
 
 ### 💡 **Things I Enjoy**:
 - Solving complex problems and building scalable solutions
